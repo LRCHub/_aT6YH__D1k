@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "sobukaisoku",
+  "base_artist": "Akane Streaking Crowd",
+  "createdAt": "2026-02-15T16:35:58.911243Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sobukaisoku",
+      "artist": "Akane Streaking Crowd",
+      "has_synced": false,
+      "path": "select/pl_01_sobukaisoku_Akane_Streaking_Crowd.txt"
+    }
+  ]
+}
